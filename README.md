@@ -1,2 +1,2 @@
-此程式續搭配WpfMVVMExample專案使用，CreateMVVMProject負責創建mvvm框架的wpf專案，
+此程式續搭配WpfMVVMExample專案使用，CreateMVVMProject 工具負責創建mvvm框架的wpf專案，
 wpf專案則由WpfMVVMExample作為範例，再進行更改名稱創建新的專案。
